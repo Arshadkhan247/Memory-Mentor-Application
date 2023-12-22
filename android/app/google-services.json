@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525412343346",
+    "project_id": "memorymentorapp",
+    "storage_bucket": "memorymentorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525412343346:android:e57c1580fd1642a9bd262b",
+        "android_client_info": {
+          "package_name": "com.example.memorymentorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhzoDgYrmVS2Qnn8JrCWTdXdT9rPVWxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
